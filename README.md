@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Angela Soila.
+Hi, I'm Angela Soila.<br>
 I am currently working on web development using HTML, CSS, JavaScript, Reactjs, nodejs and my SQL.<br>I am also working on mobile app development using flutter.<br>I am looking to collaborate on both web development and mobile applications development.<br>You can reach me via email:angelasoila06@gmail.com.<br>
 
 
@@ -14,7 +14,6 @@ I am currently working on web development using HTML, CSS, JavaScript, Reactjs, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angela Soila&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Angela Soila&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
