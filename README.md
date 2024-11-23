@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi, I'm Angela Soila.
 I am currently working on web development using HTML, CSS, JavaScript, Reactjs, nodejs and my SQL.<br>I am also working on mobile app development using flutter.<br>I am looking to collaborate on both web development and mobile applications development.<br>You can reach me via email:angelasoila06@gmail.com.<br>
 
 
